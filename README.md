@@ -1,4 +1,4 @@
-# meghz-script
+# tool-madh
 For msf venepenetration
 
 Developed by Meghal Kc
@@ -38,6 +38,6 @@ select your kids phone/tab/pc/wificonected_devices
 if it is phone : phone.madh.sh
 if it is tab : tab.madh.sh
 if it is pc : pc.madh.sh
-if it is wificonected_devi
+if it is wificonected_devices
 Contact on gmail 4 passcode
 Meghalkcabc@gmail.com
