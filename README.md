@@ -1,4 +1,4 @@
-# madh-script
+# meghz-script
 For msf venepenetration
 
 Developed by Meghal Kc
